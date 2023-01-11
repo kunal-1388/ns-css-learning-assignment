@@ -1,0 +1,225 @@
+
+Q1
+
+We will be adding styles to the blog page that we created in the 
+question "Adding Footer To Blog Page - 8". 
+
+In this question we are going to add some styles to the body and the
+navbar.
+
+Add the following styles :
+
+<ol>
+    <li>Add the backgorund color "rgb(230, 230, 230)" to the body</li>
+    <li>Add the following styles to the ul tag
+        <ol>
+            <li>Remove the bullet points from all the "li's"</li>
+            <li>set the margin and padding to "0px"</li>
+            <li>Set the background color as "rgb(1, 14, 128)"</li>
+            <li>Set the display to "flex" and flex-direction to "row"</li>
+        </ol>
+    </li>
+</ol>
+
+
+Q2
+
+
+In continuation with the question "Blog Styling 1" ,
+in this question we are going to add some styles to navbar links 
+
+<b>Please solve the question "Blog Styling 1" before 
+solving this question</b>
+
+
+Add the following styles :
+
+<ol>
+    <li>For the li tags present inside the nav tag set "flex-grow" property to "1"</li>
+    <li>Add the hover pseudo-class to the li tags which sets their 
+    backgorund-color property to "rgba(0, 0, 0, 0)"</li>
+    <li>Set the text-align property of the h1 tag to center</li>
+</ol>
+
+
+
+Q3
+
+In continuation with the question "Blog Styling 2" ,
+in this question we are going to add some more styles to navbar links 
+
+<b>Please solve the question "Blog Styling 2" before 
+solving this question</b>
+
+
+Add the following styles :
+
+For all the "a" tags present inside the li tag add the following styles:
+<ol>
+    <li>
+    Set the display property to "block"
+    </li>
+    <li>
+    Set the color property to "rgb(255, 255, 255)"
+    </li>
+    <li>
+    Set the text-align property to "center"
+    </li>
+    <li>
+    Set the padding to "30px"
+    </li>
+    <li>
+    Remove the line under the text that is present inside the "a" tag 
+    </li>
+</ol>
+
+
+
+
+Q4
+
+In continuation with the question "Blog Styling 3" ,
+in this question we are going to add some styles to article tag which 
+contains the paragraph text on the page. 
+
+<b>Please solve the question "Blog Styling 3" before solving this question</b>
+
+
+Add the following styles :
+
+For the article tag add the following styles:
+<ol>
+    <li>Set the "text-align" property to left</li>
+    <li>Add a margin of "15px"</li>
+    <li>Set the "max-width" property to "100%"</li>
+    <li>Set the font size to "18px"</li>
+    <li>Set the line height to "32px" </li>
+</ol>
+
+
+
+Q5
+
+In continuation with the question "Blog Styling 4" ,
+in this question we are going to add some styles to img and figure tags 
+which contain the flag image.
+
+<b>Please solve the question "Blog Styling 4" before solving this question</b>
+
+
+Add the following styles :
+
+For the article tag add the following styles:
+<ol>
+    <li>
+    Add the following styles to the figure tag
+    <ol>
+        <li>Set the "display" property to "flex"</li>
+        <li>Set the flex direction to center</li>
+        <li>Center it across the cross axis</li>
+    </ol>
+    </li>
+    
+    <li>
+    Add the following styles to the figcaption tag
+    <ol>
+        <li>Center the text</li>
+    </ol>
+    </li>
+    
+    <li>
+    Add the following styles to the img tag
+    <ol>
+        <li>Give it a width and height of "400px" and "300px"</li>
+    </ol>
+    </li>
+    
+    
+</ol>
+
+
+
+
+
+
+Q6
+
+In continuation with the question "Blog Styling 5" ,
+in this question we are going to add some styles to aside tags .
+
+<b>Please solve the question "Blog Styling 5" before solving this question</b>
+
+
+Add the following styles :
+
+For the aside tag add the following styles:
+<ol>
+    <li>Set the "left" property to "10px"</li>
+    <li>Set the padding to "15px"</li>
+    <li>Set the "max-width" to "100%"</li>
+    <li>Set the position to "relative"</li>
+    <li>Set the border to "5px solid rgb(1, 14, 128)"</li>
+    <li>Set the font size to "18px"</li>
+</ol>
+
+Center the h2 tag's text
+
+
+
+
+
+q7 
+
+  video {
+    display: block;
+    width: 420px;
+    height: 250px;
+    padding: 15px;
+  }
+  
+  audio {
+    padding: 15px;
+    max-width: 90%;
+    /* box-sizing: border-box; */
+  }
+  
+  embed {
+    width: 400px;
+    height: 458px;
+    padding: 15px;
+  }
+
+
+In continuation with the question "Blog Styling 6" ,
+in this question we are going to add some styles to media tags .
+
+<b>Please solve the question "Blog Styling 6" before solving this question</b>
+
+
+Add the following styles :
+
+
+
+For the video tag add the following styles:
+<ol>
+    <li>Set the display to "block"</li>
+    <li>Set width and height to "420px" and "250px" respectively</li>
+    <li>Set the padding to "15px"</li>
+    
+</ol>
+
+For the audio tag add the following styles:
+<ol>
+    
+    <li>Set the padding to "15px"</li>
+    <li>Set max-width of "90%"</li>
+    
+</ol>
+
+
+For the embed tag add the following styles:
+<ol>
+    <li>Set width and height to "400px" and "458px" respectively</li>
+    <li>Set the padding to "15px"</li>
+    
+</ol>
